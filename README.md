@@ -38,3 +38,5 @@ weightInGms: Product weight in grams
 outOfStock: Boolean flag indicating stock availability
 
 quantity: Number of units per package (mixed with grams for loose produce)
+
+💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐
